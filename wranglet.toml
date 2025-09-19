@@ -1,0 +1,47 @@
+name = "supcoba"
+compatibility_date = "2023-02-01"
+main = "supjav24.ts"
+[vars]
+
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = false
+
+
+
+
+# Tambahkan variabel lingkungan jika ada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
