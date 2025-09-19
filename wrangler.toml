@@ -1,6 +1,6 @@
 name = "miss"
 compatibility_date = "2023-02-01"
-main = "worker-missav3.ts"
+main = "worker-missav4.ts"
 [vars]
 
 # wrangler.toml (wrangler v3.88.0^)
