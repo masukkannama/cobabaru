@@ -1,6 +1,6 @@
-name = "supcoba"
+name = "miss"
 compatibility_date = "2023-02-01"
-main = "supjav24.ts"
+main = "worker-missav.ts"
 [vars]
 
 # wrangler.toml (wrangler v3.88.0^)
